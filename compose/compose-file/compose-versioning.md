@@ -432,6 +432,7 @@ Compose files. (For more information, see [Extending services](../extends.md#ext
 -   `pids_limit`: This option has not been introduced in `version: "3.x"` Compose files.
 -   `link_local_ips` in `networks`: This option has not been introduced in
     `version: "3.x"` Compose files.
+-   `storage_opt`: This option has not been introduced in `version: "3.x"` Compose files.
 
 ### Version 1 to 2.x
 
